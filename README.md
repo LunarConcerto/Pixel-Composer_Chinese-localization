@@ -4,6 +4,8 @@ The simplified chinese localization file for Pixel-Composer
 
 该项目为 [Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer) 的简体中文汉化包.
 
+由于本人对该程序的使用经验还不足, 某些翻译可能出现疏漏与错误, 非常欢迎进行指点和修改.
+
 # 如何使用
 
 1. 打开 `Pixel-Composer` 在工具栏的 `Help` 选项中点击 `Open local directory` 打开 `Pixel-Composer` 的主目录.
