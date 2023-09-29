@@ -14,6 +14,12 @@ The simplified chinese localization file for Pixel-Composer
 
 4. 重启程序.
 
+# 进度
+
+- `UI.json` 已添加完整汉化文本.
+- `words.json` 已添加完整汉化文本.
+- `nodes.json` 未汉化, 因为似乎暂时还没有效果, 官方还未添加对结点的本地化支持.
+
 # 备注
 
 使用的开源字体: 
