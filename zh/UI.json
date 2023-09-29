@@ -279,7 +279,7 @@
 
     "graph_export_scale":            "缩放",
     "graph_export_padding":          "填充",
-    "graph_export_solid_background": "实体背景",
+    "graph_export_solid_background": "纯色背景",
     "graph_export_background_color": "背景颜色",
     "graph_export_render_grid":      "渲染网格",
     "graph_export_grid_color":       "网格颜色",
