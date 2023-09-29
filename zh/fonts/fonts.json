@@ -1,0 +1,38 @@
+{
+    "h1": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 48
+    },
+    "h3": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 20
+    },
+    "h5": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 16
+    },
+    "p0": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 12
+    },
+    "p0b": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 12
+    },
+    "p1": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 11
+    },
+    "p2": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 10
+    },
+    "p3": {
+        "path": "./LXGWWenKaiMono-Bold.ttf",
+        "size": 9
+    },
+    "code": {
+        "path": "./JetBrainsMono-Medium.ttf",
+        "size": 12
+    }
+}
