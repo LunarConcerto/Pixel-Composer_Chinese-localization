@@ -353,6 +353,20 @@
     "project_graphGrid_color": "网格颜色",
     "project_graphGrid_opacity": "网格透明度",
     "project_settings": "项目设置",
+    "save_project_'{1}'_before_exit?": "要在退出前保存项目'{1}' 吗?",
+    "widget_control_point_move": "移动",
+    "widget_control_point_wind": "缠绕",
+    "widget_range_constant": "恒定值",
+    "widget_range_random": "随机值",
+    "widget_rotator_random_double_range": "Double Range",
+    "widget_rotator_random_double_span": "Double Span",
+    "widget_rotator_random_range": "Range",
+    "widget_rotator_random_span": "Span",
+
+    "pref_clear_temp": "在关闭时清除临时文件.",
+    "pref_connection_type": "连线类型",
+    "pref_use_alt": "使用 ALT 键为",
+    "meta_old_version": "Created on an older version",
 
     "" : ""
 }

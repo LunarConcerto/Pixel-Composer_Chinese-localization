@@ -363,7 +363,7 @@
     "tooltip":""
   },
   "Node_PB_Draw_Angle":{
-    "name":"Angle",
+    "name":"角度",
     "outputs":[
       {
         "name":"pBox",
@@ -376,15 +376,15 @@
         "tooltip":""
       },
       {
-        "name":"Color",
+        "name":"颜色",
         "tooltip":""
       },
       {
-        "name":"Apply Mask",
+        "name":"应用遮罩",
         "tooltip":""
       },
       {
-        "name":"Side",
+        "name":"侧",
         "display_data":[
           766.0,
           766.0,
@@ -394,7 +394,7 @@
         "tooltip":""
       },
       {
-        "name":"Round",
+        "name":"圆形(Round)",
         "tooltip":""
       }
     ],
@@ -475,20 +475,20 @@
     "tooltip":"在图像的四个方向上增加空间, 以使图像增大."
   },
   "Node_Vector_Cross_3D":{
-    "name":"Cross product 3D",
+    "name":"3D 叉积",
     "outputs":[
       {
-        "name":"Result",
+        "name":"结果",
         "tooltip":""
       }
     ],
     "inputs":[
       {
-        "name":"Point 1",
+        "name":"点 1",
         "tooltip":""
       },
       {
-        "name":"Point 2",
+        "name":"点 2",
         "tooltip":""
       }
     ],
@@ -556,35 +556,35 @@
         "tooltip":""
       },
       {
-        "name":"3D object",
+        "name":"3D 对象",
         "tooltip":""
       },
       {
-        "name":"Repeat",
-        "tooltip":"Amount of copies to be generated."
+        "name":"阵列次数",
+        "tooltip":"生成的副本数量."
       },
       {
-        "name":"Repeat position",
+        "name":"阵列位置偏移",
         "tooltip":""
       },
       {
-        "name":"Repeat rotation",
+        "name":"阵列旋转偏移",
         "tooltip":""
       },
       {
-        "name":"Repeat scale",
+        "name":"阵列缩放偏移",
         "tooltip":""
       },
       {
-        "name":"Repeat pattern",
+        "name":"阵列样式",
         "display_data":[
-          "Linear",
-          "Circular"
+          "线形",
+          "环形"
         ],
         "tooltip":""
       },
       {
-        "name":"Axis",
+        "name":"坐标轴",
         "display_data":[
           "x",
           "y",
@@ -593,23 +593,23 @@
         "tooltip":""
       },
       {
-        "name":"Radius",
+        "name":"半径",
         "tooltip":""
       },
       {
-        "name":"Rotation",
+        "name":"旋转",
         "tooltip":""
       },
       {
-        "name":"Projection",
+        "name":"投影",
         "display_data":[
-          "Orthographic",
-          "Perspective"
+          "正交",
+          "透视"
         ],
         "tooltip":""
       },
       {
-        "name":"Field of view",
+        "name":"视域",
         "tooltip":""
       },
       {
