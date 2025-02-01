@@ -1,3 +1,6 @@
+# 请注意：当前仓库已停止维护
+该仓库已年久失修，最新版本很可能无法使用，请前往别处寻找最新版本汉化！
+
 # Pixel-Compose 简体中文汉化包
 
 The simplified chinese localization file for Pixel-Composer
